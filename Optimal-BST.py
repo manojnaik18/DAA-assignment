@@ -24,3 +24,9 @@ freq = list(map(float, input("Enter corresponding probabilities: ").split()))
 n = len(keys)
 print("Cost of Optimal BST is", 
 optimalSearchTree(keys, freq, n))
+
+
+//
+output
+Optimal BST Cost: 142
+//
