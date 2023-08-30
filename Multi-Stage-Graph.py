@@ -37,3 +37,9 @@ print("Shortest path:", " -> ".join(map(str, path)))
 print("Minimum cost:", min_cost)
 if name == " main ": 
 main()
+
+
+//OUTPUT
+Optimal Path: [0, 1, 3, 4, 5]
+Min Cost: 6
+//
