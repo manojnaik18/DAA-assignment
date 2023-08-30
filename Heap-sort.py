@@ -23,3 +23,7 @@ heap_sort(num_list)
 print("Sorted list:", num_list)
 if name == " main ": 
 main()
+
+
+//OUTPUT
+Sorted array: [5, 6, 7, 11, 12, 13]
