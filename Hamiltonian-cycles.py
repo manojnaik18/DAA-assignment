@@ -34,3 +34,7 @@ graph[i][j] = row[j]
 hamiltonian_cycle(graph)
 if name == " main ": 
 main()
+
+  
+  //output
+Hamiltonian Cycle: [0, 1, 2, 3]
