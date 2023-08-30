@@ -22,3 +22,6 @@ pattern = input("Enter the pattern to search for: ")
 horspool_search(text, pattern)
 if name == " main ": 
 main()
+
+//OUTPUT
+Pattern found at index: 47
